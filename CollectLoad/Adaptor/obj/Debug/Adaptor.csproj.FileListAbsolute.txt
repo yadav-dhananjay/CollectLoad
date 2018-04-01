@@ -1,0 +1,7 @@
+C:\POC\collectLoad\Adaptor\bin\Debug\Adaptor.dll
+C:\POC\collectLoad\Adaptor\bin\Debug\Adaptor.pdb
+C:\POC\collectLoad\Adaptor\bin\Debug\Common.dll
+C:\POC\collectLoad\Adaptor\bin\Debug\Common.pdb
+C:\POC\collectLoad\Adaptor\obj\Debug\Adaptor.csprojResolveAssemblyReference.cache
+C:\POC\collectLoad\Adaptor\obj\Debug\Adaptor.dll
+C:\POC\collectLoad\Adaptor\obj\Debug\Adaptor.pdb

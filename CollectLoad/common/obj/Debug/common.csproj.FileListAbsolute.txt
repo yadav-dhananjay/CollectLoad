@@ -1,0 +1,4 @@
+C:\POC\collectLoad\common\bin\Debug\Common.dll
+C:\POC\collectLoad\common\bin\Debug\Common.pdb
+C:\POC\collectLoad\common\obj\Debug\Common.dll
+C:\POC\collectLoad\common\obj\Debug\Common.pdb
